@@ -1,19 +1,19 @@
-# Halo semua! 
+# Hello, World! 🌍 I'm Muhammad Farhan
 
-Perkenalkan nama saya **Muhammad Farhan**.<br>
+### 📊 Aspiring Data Analyst | Information Systems Grad
 
-Saya seorang **Apprentice Data Analyst**.<br>
+As an Information Systems graduate, I focus on transforming complex datasets into actionable business insights. My background allows me to understand both the technical and business sides of a problem. I also enjoy crafting simple, clean websites to showcase my findings.
 
-Saya sedang belajar dan berproses menjadi seorang Data Analyst.<br>
+**💡 Skills & Tools:**
+* **Data Analysis:** 🐍 Python, 🗄️ SQL, 🧹 Data Cleaning & Preprocessing.
+* **Visualization:** 📈 Power BI, Tableau.
+* **Web:** 🌐 HTML/CSS (Great for reporting & dashboards).
 
-Saat ini saya merupakan mahasiswa Sistem Informasi Universitas Riau.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/mhdfrhn13)ku ya.
+**🌱 Currently Learning:**
+* Advanced Machine Learning algorithms.
+* Integrating SQL databases with web applications.
 
 ### Tech Stack
- # 💫 About Me:
-Perkenalkan nama saya Muhammad Farhan.<br>Saya seorang Apprentice Data Analyst.<br>Saya sedang belajar dan berproses menjadi seorang Data Analyst.<br>Saat ini saya merupakan mahasiswa Sistem Informasi Universitas Riau.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhd.frrhnnn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farhan.muh1305@gmail.com) 
